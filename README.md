@@ -1,10 +1,10 @@
-# COVID-19 Patient Outcome Prediction
+# 📌 COVID-19 Patient Outcome Prediction
 
 ## Overview
 
 This project analyzes a **COVID-19 dataset** provided by the Mexican government. The dataset contains **1,048,576 anonymized patient records** with **21 unique features** related to patient demographics, pre-existing conditions, and medical interventions. The goal of this project is to build a **predictive model** that classifies patients based on their COVID-19 test findings.
 
-## Dataset Information
+## 📂 Dataset Information
 
 - **Source**: Mexican government ([Insert Dataset Link])
 - **Number of Records**: 1,048,576 patients
@@ -50,7 +50,7 @@ After a detailed data inspection, the following issues were identified and handl
 
 A classification model was trained to predict COVID-19 outcomes.
 
-### Performance Metrics
+### 📊 Performance Metrics
 
 - **Accuracy**: 94.70%
 
@@ -78,7 +78,7 @@ weighted avg       0.94      0.95      0.94    209715
 - **Class imbalance observed** (COVID-negative patients dominate the dataset).
 - **Further improvements needed** in predicting COVID-positive patients.
 
-## Future Scope & Enhancements (Pending Work)
+## 💡 Future Scope & Enhancements (Pending Work)
 
 I'll be working on the following improvements if I get time from my hell lot of projects. If someone is interested in collaborating, feel free to contact me!
 
@@ -130,7 +130,7 @@ I'll be working on the following improvements if I get time from my hell lot of 
    print('\nclassification_report:\n', classification_report(y_test_transformed, y_pred))
 
 
-## Acknowledgments
+## 👍 Acknowledgments
 
 - **Mexican Government** for providing the dataset.
 - **Machine Learning community** for best practices in model development.
@@ -139,7 +139,7 @@ I'll be working on the following improvements if I get time from my hell lot of 
 
 This project is **open-source**, and contributions are welcome! Feel free to **fork, modify, and improve** the codebase.
 
-## Contributions & Discussions
+## 🤝 Contributions & Discussions
 
 This project is open-source, and contributions are always welcome!
 
@@ -147,9 +147,9 @@ Found a bug? **[Open an issue](https://github.com/PrasadPandit-04/Data-Science/i
 Have an improvement in mind? **[Submit a pull request](https://github.com/PrasadPandit-04/Data-Science/pulls)**  
 Want to discuss ML approaches or suggest enhancements? **[Start a discussion](https://github.com/PrasadPandit-04/Data-Science/discussions)**
 
-## License
+## 📜 License
 MIT License https://choosealicense.com/licenses/mit/
 
-## Donation --> Way to heaven
+## 🧚🏼‍♂️ Donation --> Way to heaven
 If you appreciate this project and want to support future work, consider buying me [☕](https://buymeacoffee.com/prasadpandp)... (or better, donating a [GPU](https://www.amazon.in/gp/cart/view.html?ref_=nav_cart) 😆).
 
