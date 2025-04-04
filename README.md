@@ -148,6 +148,8 @@ Have an improvement in mind? **[Submit a pull request](https://github.com/Prasad
 Want to discuss ML approaches or suggest enhancements? **[Start a discussion](https://github.com/PrasadPandit-04/Data-Science/discussions)**
 
 ## License
+MIT License https://choosealicense.com/licenses/mit/
 
+## Donation --> Way to heaven
 If you appreciate this project and want to support future work, consider buying me [☕](https://buymeacoffee.com/prasadpandp)... (or better, donating a [GPU](https://www.amazon.in/gp/cart/view.html?ref_=nav_cart) 😆).
 
